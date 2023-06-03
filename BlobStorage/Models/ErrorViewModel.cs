@@ -1,4 +1,4 @@
-﻿namespace AzureBlobProject.Models;
+﻿namespace BlobStorage.Models;
 
 public class ErrorViewModel
 {
